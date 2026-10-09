@@ -1,0 +1,943 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>flux</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20261004170647ABPIL9</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20261004170647TF4TAB</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.5</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Planos y ejes anatómicos del movimiento humano</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>flux</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.5</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1791517092149</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-muu8yb8m-pq39uhvsw</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>portada </pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>portada </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>portada </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-muu8yb8m-pq39uhvsw</odePageId>
+      <odeBlockId>block-muu9a94b-tg6awnumi</odeBlockId>
+      <blockName>portada</blockName>
+      <iconName>play</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-muu8yb8m-pq39uhvsw</odePageId>
+          <odeBlockId>block-muu9a94b-tg6awnumi</odeBlockId>
+          <odeIdeviceId>idevice-1791144660394-xizsotf0p</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/mceclip8.png" width="796" height="531" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1791144660394-xizsotf0p","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/mceclip8.png\" width=\"796\" height=\"531\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>fad70e3f-8cb6-4457-a259-16ccb86598f0</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Introducción</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Introducción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Introducción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Introducción</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>fad70e3f-8cb6-4457-a259-16ccb86598f0</odePageId>
+      <odeBlockId>block-muu2lwux-sb30oyvu6</odeBlockId>
+      <blockName>Introducción</blockName>
+      <iconName>objectives</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>fad70e3f-8cb6-4457-a259-16ccb86598f0</odePageId>
+          <odeBlockId>block-muu2lwux-sb30oyvu6</odeBlockId>
+          <odeIdeviceId>idevice-1791133447064-5f8v8ouug</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Poder entender los planos y ejes anatómicos es la base para describir cualquier movimiento del cuerpo humano con precisión, en ciencias del deporte y la cultura física, este lenguaje permite analizar técnicas deportivas, diseñar programas de entrenamiento, describir lesiones y comunicarse con otros profesionales de la salud usando términos estandarizados en lugar de descripciones ambiguas como "se mueve hacia el lado".<br />En este material revisaremos la posición anatómica, los tres planos de referencia, los planos parasagitales, los ejes de movimiento asociados a cada plano, y ejemplos aplicados al deporte.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1791133447064-5f8v8ouug","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Poder entender los planos y ejes anatómicos es la base para describir cualquier movimiento del cuerpo humano con precisión, en ciencias del deporte y la cultura física, este lenguaje permite analizar técnicas deportivas, diseñar programas de entrenamiento, describir lesiones y comunicarse con otros profesionales de la salud usando términos estandarizados en lugar de descripciones ambiguas como \"se mueve hacia el lado\".<br />En este material revisaremos la posición anatómica, los tres planos de referencia, los planos parasagitales, los ejes de movimiento asociados a cada plano, y ejemplos aplicados al deporte.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-muu2skp5-1ten5g4ir</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Posición anatómica</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Posición anatómica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Posición anatómica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-muu2skp5-1ten5g4ir</odePageId>
+      <odeBlockId>block-muu2tcfu-agy7kr9kx</odeBlockId>
+      <blockName>Posición anatómica</blockName>
+      <iconName>piece</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-muu2skp5-1ten5g4ir</odePageId>
+          <odeBlockId>block-muu2tcfu-agy7kr9kx</odeBlockId>
+          <odeIdeviceId>idevice-1791133793848-bop2sdip5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La posición anatómica es la postura de referencia universal para describir el cuerpo humano, ya sea de pie, erguido, mirando al frente, con los pies separados a la altura de los hombros y los brazos extendidos a los lados con las palmas hacia el frente (supinación). Todos los planos, ejes y términos direccionales se definen a partir de esta posición.</p>
+<p>¿Por qué es necesario que todos los profesionales usen la misma posición de referencia antes de describir un movimiento? para que exista un lenguaje universal y se eviten confusiones al describir al cuerpo humano.</p>
+<p>Por ejemplo, cuando un médico, un fisioterapeuta o un entrenador dicen que un brazo se mueve hacia adelante o que existe una lesión en la parte lateral de una pierna, todos entienden exactamente la misma ubicación y el mismo movimiento y sin importar la posición en la que esté la persona en ese momento.</p>
+<p><strong> Imagen 1 .Posición anatómica</strong><img src="{{context_path}}/content/resources/mceclip5.png" /><br /><em>Nota. Imagen generada mediante inteligencia artificial OpenAI. (2026). ChatGPT (DALL·E)</em><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1791133793848-bop2sdip5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La posición anatómica es la postura de referencia universal para describir el cuerpo humano, ya sea de pie, erguido, mirando al frente, con los pies separados a la altura de los hombros y los brazos extendidos a los lados con las palmas hacia el frente (supinación). Todos los planos, ejes y términos direccionales se definen a partir de esta posición.</p>\n<p>¿Por qué es necesario que todos los profesionales usen la misma posición de referencia antes de describir un movimiento? para que exista un lenguaje universal y se eviten confusiones al describir al cuerpo humano.</p>\n<p>Por ejemplo, cuando un médico, un fisioterapeuta o un entrenador dicen que un brazo se mueve hacia adelante o que existe una lesión en la parte lateral de una pierna, todos entienden exactamente la misma ubicación y el mismo movimiento y sin importar la posición en la que esté la persona en ese momento.</p>\n<p><strong> Imagen 1 .Posición anatómica</strong><img src=\"{{context_path}}/content/resources/mceclip5.png\" /><br /><em>Nota. Imagen generada mediante inteligencia artificial OpenAI. (2026). ChatGPT (DALL·E)</em><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-muu2wdrs-nt3zr5t5c</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Los tres planos anatómicos</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Los tres planos anatómicos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Los tres planos anatómicos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-muu2wdrs-nt3zr5t5c</odePageId>
+      <odeBlockId>block-muu2wzo4-hc0r8cs1t</odeBlockId>
+      <blockName>Los tres planos anatómicos</blockName>
+      <iconName>reflection</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-muu2wdrs-nt3zr5t5c</odePageId>
+          <odeBlockId>block-muu2wzo4-hc0r8cs1t</odeBlockId>
+          <odeIdeviceId>idevice-1791133963923-08438fdbu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Los planos anatómicos son superficies imaginarias que dividen el cuerpo para describir la ubicación de sus estructuras y sus movimientos:</p>
+<p>Plano sagital: divide el cuerpo en una mitad derecha y una izquierda.<br />Plano frontal o coronal: divide el cuerpo en una mitad anterior (ventral) y una posterior (dorsal).<br />Plano transversal u horizontal: divide el cuerpo en una mitad superior y una inferior.<br /><br /> <strong>  imagen 2. Plano Sagital  <img src="{{context_path}}/content/resources/mceclip0.jpg" /><br /></strong></p>
+<p><em>Nota. Tomado de "3 planos y ejes de movimiento," por J. Fernández, 2026, Mundo Entrenamiento.</em><br /><em>                    Se relaciona principalmente con movimientos hacia adelante y hacia atrás, como flexionar y extender una pierna o un brazo</em><br /></p>
+<p><strong>imagen 3. Plano Frontal<br /></strong> <img src="{{context_path}}/content/resources/mceclip1.jpg" /><br /><em>Nota. Tomado de "3 planos y ejes de movimiento," por J. Fernández, 2026, Mundo Entrenamiento.</em><br /><em>                    En este plano se realizan movimientos hacia los lados, como separar y acercar los brazos o las piernas al cuerpo.</em></p>
+<p><strong>imagen 4. Plano Transversal </strong><br /><img src="{{context_path}}/content/resources/mceclip2.jpg" /><br /></p>
+<p><em>Nota. Tomado de "3 planos y ejes de movimiento," por J. Fernández, 2026, Mundo Entrenamiento.</em><br /><em>                    Está relacionado con los movimientos de giro o rotación , como cuando giramos el tronco para golpear una pelota.</em><br /></p>
+<p><strong>Imagen 5. Planos Sagital Medio y Planos Parasagitales </strong><br /><img src="{{context_path}}/content/resources/mceclip3.png" /><br /><em>Nota. Elaboración propia mediante inteligencia artificial, OpenAI (2026), ChatGPT (DALL·E).</em><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1791133963923-08438fdbu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Los planos anatómicos son superficies imaginarias que dividen el cuerpo para describir la ubicación de sus estructuras y sus movimientos:</p>\n<p>Plano sagital: divide el cuerpo en una mitad derecha y una izquierda.<br />Plano frontal o coronal: divide el cuerpo en una mitad anterior (ventral) y una posterior (dorsal).<br />Plano transversal u horizontal: divide el cuerpo en una mitad superior y una inferior.<br /><br /> <strong>  imagen 2. Plano Sagital  <img src=\"{{context_path}}/content/resources/mceclip0.jpg\" /><br /></strong></p>\n<p><em>Nota. Tomado de \"3 planos y ejes de movimiento,\" por J. Fernández, 2026, Mundo Entrenamiento.</em><br /><em>                    Se relaciona principalmente con movimientos hacia adelante y hacia atrás, como flexionar y extender una pierna o un brazo</em><br /></p>\n<p><strong>imagen 3. Plano Frontal<br /></strong> <img src=\"{{context_path}}/content/resources/mceclip1.jpg\" /><br /><em>Nota. Tomado de \"3 planos y ejes de movimiento,\" por J. Fernández, 2026, Mundo Entrenamiento.</em><br /><em>                    En este plano se realizan movimientos hacia los lados, como separar y acercar los brazos o las piernas al cuerpo.</em></p>\n<p><strong>imagen 4. Plano Transversal </strong><br /><img src=\"{{context_path}}/content/resources/mceclip2.jpg\" /><br /></p>\n<p><em>Nota. Tomado de \"3 planos y ejes de movimiento,\" por J. Fernández, 2026, Mundo Entrenamiento.</em><br /><em>                    Está relacionado con los movimientos de giro o rotación , como cuando giramos el tronco para golpear una pelota.</em><br /></p>\n<p><strong>Imagen 5. Planos Sagital Medio y Planos Parasagitales </strong><br /><img src=\"{{context_path}}/content/resources/mceclip3.png\" /><br /><em>Nota. Elaboración propia mediante inteligencia artificial, OpenAI (2026), ChatGPT (DALL·E).</em><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-muu3hsjf-3g3pmlra1</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Ejes de movimiento</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Ejes de movimiento</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Ejes de movimiento</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-muu3hsjf-3g3pmlra1</odePageId>
+      <odeBlockId>block-muu3jzie-f2rg262om</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName>explore</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-muu3hsjf-3g3pmlra1</odePageId>
+          <odeBlockId>block-muu3jzie-f2rg262om</odeBlockId>
+          <odeIdeviceId>idevice-1791135036804-o8kfovjyu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="1" style="width: 100.062%; height: 227.2px;">
+<tbody>
+<tr style="height: 32.8px;">
+<td style="width: 24.9211%; height: 32.8px;">Plano</td>
+<td style="width: 24.9211%; height: 32.8px;">Eje de movimiento</td>
+<td style="width: 24.9211%; height: 32.8px;">Movimientos</td>
+<td style="width: 25.0799%; height: 32.8px;">Ejemplo deportivo</td>
+</tr>
+<tr style="height: 56.8px;">
+<td style="width: 24.9211%; height: 56.8px;">Sagital<br /></td>
+<td style="width: 24.9211%; height: 56.8px;">Frontal (transversal-horizontal)</td>
+<td style="width: 24.9211%; height: 56.8px;">Flexión / Extensión</td>
+<td style="width: 25.0799%; height: 56.8px;">Sentadilla, curl de bíceps, zancada</td>
+</tr>
+<tr style="height: 80.8px;">
+<td style="width: 24.9211%; height: 80.8px;">Frontal (coronal)</td>
+<td style="width: 24.9211%; height: 80.8px;">Sagital (anteroposterior)</td>
+<td style="width: 24.9211%; height: 80.8px;">Abducción / Aducción, inclinación lateral</td>
+<td style="width: 25.0799%; height: 80.8px;">Jumping jacks, elevaciones laterales</td>
+</tr>
+<tr style="height: 56.8px;">
+<td style="width: 24.9211%; height: 56.8px;">Transversal<br /></td>
+<td style="width: 24.9211%; height: 56.8px;">Longitudinal (vertical)</td>
+<td style="width: 24.9211%; height: 56.8px;">Rotación interna / externa</td>
+<td style="width: 25.0799%; height: 56.8px;">Giro de tronco: golf, béisbol</td>
+</tr>
+</tbody>
+</table>
+<p><br />Planos y ejes anatómicos complemento</p>
+<p><a href="https://youtu.be/-391tnkuYY4?si=lhWdwNo_kbIpNxvN" title="Plano y Ejes Anatómicos ">https://youtu.be/-391tnkuYY4?si=lhWdwNo_kbIpNxvN</a><br /></p>
+<p><strong>Imagen 6.</strong><br /><img src="{{context_path}}/content/resources/mceclip6.png" /><br /><em>Nota. Movimientos en los planos y ejes de movimiento. Tomado de Zárate Rodríguez et al. (2018), en Fernández (sf).</em></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1791135036804-o8kfovjyu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" style=\"width: 100.062%; height: 227.2px;\">\n<tbody>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 24.9211%; height: 32.8px;\">Plano</td>\n<td style=\"width: 24.9211%; height: 32.8px;\">Eje de movimiento</td>\n<td style=\"width: 24.9211%; height: 32.8px;\">Movimientos</td>\n<td style=\"width: 25.0799%; height: 32.8px;\">Ejemplo deportivo</td>\n</tr>\n<tr style=\"height: 56.8px;\">\n<td style=\"width: 24.9211%; height: 56.8px;\">Sagital<br /></td>\n<td style=\"width: 24.9211%; height: 56.8px;\">Frontal (transversal-horizontal)</td>\n<td style=\"width: 24.9211%; height: 56.8px;\">Flexión / Extensión</td>\n<td style=\"width: 25.0799%; height: 56.8px;\">Sentadilla, curl de bíceps, zancada</td>\n</tr>\n<tr style=\"height: 80.8px;\">\n<td style=\"width: 24.9211%; height: 80.8px;\">Frontal (coronal)</td>\n<td style=\"width: 24.9211%; height: 80.8px;\">Sagital (anteroposterior)</td>\n<td style=\"width: 24.9211%; height: 80.8px;\">Abducción / Aducción, inclinación lateral</td>\n<td style=\"width: 25.0799%; height: 80.8px;\">Jumping jacks, elevaciones laterales</td>\n</tr>\n<tr style=\"height: 56.8px;\">\n<td style=\"width: 24.9211%; height: 56.8px;\">Transversal<br /></td>\n<td style=\"width: 24.9211%; height: 56.8px;\">Longitudinal (vertical)</td>\n<td style=\"width: 24.9211%; height: 56.8px;\">Rotación interna / externa</td>\n<td style=\"width: 25.0799%; height: 56.8px;\">Giro de tronco: golf, béisbol</td>\n</tr>\n</tbody>\n</table>\n<p><br />Planos y ejes anatómicos complemento</p>\n<p><a href=\"https://youtu.be/-391tnkuYY4?si=lhWdwNo_kbIpNxvN\" title=\"Plano y Ejes Anatómicos \">https://youtu.be/-391tnkuYY4?si=lhWdwNo_kbIpNxvN</a><br /></p>\n<p><strong>Imagen 6.</strong><br /><img src=\"{{context_path}}/content/resources/mceclip6.png\" /><br /><em>Nota. Movimientos en los planos y ejes de movimiento. Tomado de Zárate Rodríguez et al. (2018), en Fernández (sf).</em></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-muu3hsjf-3g3pmlra1</odePageId>
+      <odeBlockId>block-mv0fhadv-6piuqo4ad</odeBlockId>
+      <blockName>Archivos adjuntos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-muu3hsjf-3g3pmlra1</odePageId>
+          <odeBlockId>block-mv0fhadv-6piuqo4ad</odeBlockId>
+          <odeIdeviceId>idevice-1791517863378-9hax5c4qx</odeIdeviceId>
+          <odeIdeviceTypeName>file-attachment</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- File attachment iDevice template start -->
+<div class="exe-file-attachment-template">
+  <!-- iDevice content start -->
+  <div class="fileAttachment-IDevice"><ul class="fileAttachment-list"><li class="fileAttachment-item fileAttachment-item--video"><a class="fileAttachment-link" href="{{context_path}}/content/resources/videoplayback.mp4" download="videoplayback.mp4">
+                <span class="fileAttachment-icon fileAttachment-icon--video" aria-hidden="true"><svg class="fileAttachment-glyph" viewBox="0 0 40 48" width="40" height="48" focusable="false" aria-hidden="true"><path class="fileAttachment-glyph-page" d="M4 2h22l10 10v34a0 0 0 0 1 0 0H4a0 0 0 0 1 0 0V2z"/><path class="fileAttachment-glyph-fold" d="M26 2l10 10H26z"/><text class="fileAttachment-glyph-label" x="20" y="34" text-anchor="middle">MP4</text></svg></span>
+                <span class="fileAttachment-text">
+                    <span class="exe-sr-only">Descargar </span><span class="fileAttachment-title">videoplayback.mp4</span>
+                    <span class="fileAttachment-meta">10.9 MB</span>
+                </span>
+            </a></li></ul></div>
+  <!-- iDevice content end -->
+</div>
+<!-- File attachment iDevice template end -->
+]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1791517863378-9hax5c4qx","intro":"","showDescriptions":true,"attachments":[{"url":"{{context_path}}/content/resources/videoplayback.mp4","filename":"videoplayback.mp4","mimeType":"video/mp4","size":11422317,"title":"","description":""}]}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-muu3i0gz-jdrsg0u1q</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Aplicación práctica en el deporte</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Aplicación práctica en el deporte</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Aplicación práctica en el deporte</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-muu3i0gz-jdrsg0u1q</odePageId>
+      <odeBlockId>block-muu3vym4-ff38grb33</odeBlockId>
+      <blockName>Aplicación práctica en el deporte</blockName>
+      <iconName>mi-bike_lane</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-muu3i0gz-jdrsg0u1q</odePageId>
+          <odeBlockId>block-muu3vym4-ff38grb33</odeBlockId>
+          <odeIdeviceId>idevice-1791135595515-ap1gldrnr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Que cada integrante elija un ejercicio o gesto deportivo de su interés y lo clasifique, por ejemplo.</p>
+<ul>
+<li>Sentadilla &gt;Plano: sagital &gt; Eje: frontal-horizontal &gt; Flexión y extensión de cadera, rodilla y tobillo.</li>
+<li>Elevaciones laterales de hombro &gt; Plano: frontal &gt; Eje: sagital &gt;Abducción/aducción de hombro.</li>
+<li>Golpe de golf o béisbol (giro de tronco) &gt; Plano: transversal &gt; Eje: longitudinal &gt; Rotación del tronco.<br /><br /><strong>Imagen 7. Ejemplo de los gestos deportivos clasificados</strong><br /></li>
+</ul>
+<p><img src="{{context_path}}/content/resources/mceclip4.png" width="641" height="427" /><br /><em>Nota. Elaboración propia mediante inteligencia artificial, OpenAI (2026), ChatGPT (DALL·E).</em><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1791135595515-ap1gldrnr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Que cada integrante elija un ejercicio o gesto deportivo de su interés y lo clasifique, por ejemplo.</p>\n<ul>\n<li>Sentadilla &gt;Plano: sagital &gt; Eje: frontal-horizontal &gt; Flexión y extensión de cadera, rodilla y tobillo.</li>\n<li>Elevaciones laterales de hombro &gt; Plano: frontal &gt; Eje: sagital &gt;Abducción/aducción de hombro.</li>\n<li>Golpe de golf o béisbol (giro de tronco) &gt; Plano: transversal &gt; Eje: longitudinal &gt; Rotación del tronco.<br /><br /><strong>Imagen 7. Ejemplo de los gestos deportivos clasificados</strong><br /></li>\n</ul>\n<p><img src=\"{{context_path}}/content/resources/mceclip4.png\" width=\"641\" height=\"427\" /><br /><em>Nota. Elaboración propia mediante inteligencia artificial, OpenAI (2026), ChatGPT (DALL·E).</em><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-muu3i6it-7sqt7jo6t</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Pon a prueba lo aprendido</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Pon a prueba lo aprendido</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Pon a prueba lo aprendido</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-muu3i6it-7sqt7jo6t</odePageId>
+      <odeBlockId>block-muu5ksjr-ioh4te93h</odeBlockId>
+      <blockName>Pon a prueba lo aprendido</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-muu3i6it-7sqt7jo6t</odePageId>
+          <odeBlockId>block-muu5ksjr-ioh4te93h</odeBlockId>
+          <odeIdeviceId>idevice-1791138433646-zhpgwjoib</odeIdeviceId>
+          <odeIdeviceTypeName>quick-questions</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="quext-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1791138433646-zhpgwjoib" data-evaluationb="false" data-evaluationid="feac2c3e-add3-4790-bc5c-ceb9b7de6061"></div><div class="quext-instructions QXTP-instructions"><p>Elija la respuesta correcta</p></div><div class="quext-version js-hidden">2</div><div class="quext-feedback-game"></div><div class="quext-DataGame js-hidden">%E9%B0%F3%E1%FB%F5%FC%F3%E6%E7%E0%F3%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%C4%FB%F6%F7%FD%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%C3%E7%D7%EA%E6%B0%BE%B0%F7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%FB%F6%C4%FB%F6%F7%FD%B0%A8%B0%B0%BE%B0%E1%E6%F3%E0%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%D7%EA%F7%B0%A8%B0%B7%A1%D1%E2%B7%A1%D7%D7%FE%FB%F8%F3%B7%A0%A2%FE%F3%B7%A0%A2%E0%F7%E1%E2%E7%F7%E1%E6%F3%B7%A0%A2%F1%FD%E0%E0%F7%F1%E6%F3%B7%A1%D1%BD%E2%B7%A1%D7%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%D7%FE%FB%F8%F3%B2%FE%F3%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%B2%F1%FD%E0%E0%F7%F1%E6%F3%B2%B0%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FD%E2%E6%FB%FD%FC%E1%C0%F3%FF%F6%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F3%FC%E1%E5%F7%E0%E1%C0%F3%FF%F6%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%E1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%E6%E0%E7%F7%BE%B0%E6%FB%FF%F7%C1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%A1%BE%B0%E7%E1%F7%DE%FB%E4%F7%E1%B0%A8%E6%E0%E7%F7%BE%B0%FC%E7%FF%F0%F7%E0%DE%FB%E4%F7%E1%B0%A8%A1%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A6%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%E3%E7%F7%E1%E6%FB%FD%FC%E1%D5%F3%FF%F7%B0%A8%C9%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A2%BE%B0%FC%E7%FF%F0%F7%E0%DD%E2%E6%FB%FD%FC%E1%B0%A8%A6%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F1%E7%E1%E6%FD%FF%C1%F1%FD%E0%F7%B0%A8%A3%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E1%FD%E7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%FF%F3%F5%F7%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F4%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E6%C1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%E3%E7%F7%EA%E6%FB%FD%FC%B0%A8%B0-%C3%E7%7B%B2%E2%FE%F3%FC%FD%B2%F6%FB%E4%FB%F6%F7%B2%F7%FE%B2%F1%E7%F7%E0%E2%FD%B2%F7%FC%B2%E7%FC%F3%B2%FF%FB%E6%F3%F6%B2%F6%F7%E0%F7%F1%FA%F3%B2%EB%B2%E7%FC%F3%B2%FB%E8%E3%E7%FB%F7%E0%F6%F3%AD%B0%BE%B0%FD%E2%E6%FB%FD%FC%E1%B0%A8%C9%B0%C1%F3%F5%FB%E6%F3%FE%B0%BE%B0%C6%E0%F3%FC%E1%E4%F7%E0%E1%F3%FE%B0%BE%B0%C2%F3%E0%F3%E1%F3%F5%FB%E6%F3%FE%B0%BE%B0%D4%E0%FD%FC%E6%F3%FE%B0%CF%BE%B0%E1%FD%FE%E7%E6%FB%FD%FC%B0%A8%A2%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A2%BE%B0%FC%E7%FF%F0%F7%E0%DD%E2%E6%FB%FD%FC%E1%B0%A8%A6%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F1%E7%E1%E6%FD%FF%C1%F1%FD%E0%F7%B0%A8%A3%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E1%FD%E7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%FF%F3%F5%F7%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F4%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E6%C1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%E3%E7%F7%EA%E6%FB%FD%FC%B0%A8%B0-%D7%FC%B2%E3%E7%7B%B2%E2%FE%F3%FC%FD%B2%FD%F1%E7%E0%E0%F7%B2%FE%F3%B2%F3%F0%F6%E7%F1%F1%FBa%FC%B2%F6%F7%FE%B2%FA%FD%FF%F0%E0%FD%AD%B0%BE%B0%FD%E2%E6%FB%FD%FC%E1%B0%A8%C9%B0%C1%F3%F5%FB%E6%F3%FE%B0%BE%B0%C2%F3%E0%F3%E1%F3%F5%FB%E6%F3%FE%B0%BE%B0%C6%E0%F3%FC%E1%E4%F7%E0%E1%F3%FE%B0%BE%B0%D4%E0%FD%FC%E6%F3%FE%B2%BA%F1%FD%E0%FD%FC%F3%FE%BB%B0%CF%BE%B0%E1%FD%FE%E7%E6%FB%FD%FC%B0%A8%A1%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A2%BE%B0%FC%E7%FF%F0%F7%E0%DD%E2%E6%FB%FD%FC%E1%B0%A8%A6%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F1%E7%E1%E6%FD%FF%C1%F1%FD%E0%F7%B0%A8%A3%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E1%FD%E7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%FF%F3%F5%F7%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F4%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E6%C1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%E3%E7%F7%EA%E6%FB%FD%FC%B0%A8%B0-%D3%FE%E0%F7%F6%F7%F6%FD%E0%B2%F6%F7%B2%E3%E7%7B%B2%F7%F8%F7%B2%E1%F7%B2%E2%E0%FD%F6%E7%F1%F7%B2%FE%F3%B2%E0%FD%E6%F3%F1%FBa%FC%B2%F6%F7%FE%B2%E6%E0%FD%FC%F1%FD%AD%B0%BE%B0%FD%E2%E6%FB%FD%FC%E1%B0%A8%C9%B0%D7%F8%F7%B2%F4%E0%FD%FC%E6%F3%FE%B2%BA%FA%FD%E0%FB%E8%FD%FC%E6%F3%FE%BB%B0%BE%B0%D7%F8%F7%B2%FE%FD%FC%F5%FB%E6%E7%F6%FB%FC%F3%FE%B2%BA%E4%F7%E0%E6%FB%F1%F3%FE%BB%B0%BE%B0%D7%F8%F7%B2%E6%E0%F3%FC%E1%E4%F7%E0%E1%F3%FE%B0%BE%B0%D7%F8%F7%B2%E1%F3%F5%FB%E6%F3%FE%B2%BA%F3%FC%E6%F7%E0%FD%E2%FD%E1%E6%F7%E0%FB%FD%E0%BB%B0%CF%BE%B0%E1%FD%FE%E7%E6%FB%FD%FC%B0%A8%A3%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A2%BE%B0%FC%E7%FF%F0%F7%E0%DD%E2%E6%FB%FD%FC%E1%B0%A8%A6%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F1%E7%E1%E6%FD%FF%C1%F1%FD%E0%F7%B0%A8%A3%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E1%FD%E7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%FF%F3%F5%F7%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F4%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E6%C1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%E3%E7%F7%EA%E6%FB%FD%FC%B0%A8%B0%C7%FC%B2%E2%FE%F3%FC%FD%B2%E2%F3%E0%F3%FE%F7%FE%FD%B2%F3%FE%B2%E1%F3%F5%FB%E6%F3%FE%B2%FF%F7%F6%FB%FD%B2%E2%F7%E0%FD%B2%F6%F7%E1%E2%FE%F3%E8%F3%F6%FD%B2%F6%F7%B2%FE%F3%B2%FE%7F%FC%F7%F3%B2%FF%F7%F6%FB%F3%B2%E1%F7%B2%FE%FE%F3%FF%F3%A8%B0%BE%B0%FD%E2%E6%FB%FD%FC%E1%B0%A8%C9%B0%C2%FE%F3%FC%FD%B2%E6%E0%F3%FC%E1%E4%F7%E0%E1%F3%FE%B0%BE%B0%C2%FE%F3%FC%FD%B2%F4%E0%FD%FC%E6%F3%FE%B0%BE%B0%C2%FE%F3%FC%FD%B2%E1%F3%F5%FB%E6%F3%FE%B2%FF%F7%F6%FB%FD%B0%BE%B0%C2%FE%F3%FC%FD%B2%E2%F3%E0%F3%E1%F3%F5%FB%E6%F3%FE%B0%CF%BE%B0%E1%FD%FE%E7%E6%FB%FD%FC%B0%A8%A1%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A2%BE%B0%FC%E7%FF%F0%F7%E0%DD%E2%E6%FB%FD%FC%E1%B0%A8%A6%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F1%E7%E1%E6%FD%FF%C1%F1%FD%E0%F7%B0%A8%A3%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E1%FD%E7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%FF%F3%F5%F7%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F4%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E6%C1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%E3%E7%F7%EA%E6%FB%FD%FC%B0%A8%B0%DE%F3%B2%F4%FE%F7%EA%FBa%FC%B2%EB%B2%F7%EA%E6%F7%FC%E1%FBa%FC%B2%F6%F7%B2%FE%F3%B2%E0%FD%F6%FB%FE%FE%F3%B2%FD%F1%E7%E0%E0%F7%FC%B2%F7%FC%B2%F7%FE%B2%E2%FE%F3%FC%FD%B0%BE%B0%FD%E2%E6%FB%FD%FC%E1%B0%A8%C9%B0%D4%E0%FD%FC%E6%F3%FE%B2%BA%F1%FD%E0%FD%FC%F3%FE%BB%B0%BE%B0%C2%F3%E0%F3%E1%F3%F5%FB%E6%F3%FE%B0%BE%B0%C1%F3%F5%FB%E6%F3%FE%B0%BE%B0%C6%E0%F3%FC%E1%E4%F7%E0%E1%F3%FE%B0%CF%BE%B0%E1%FD%FE%E7%E6%FB%FD%FC%B0%A8%A0%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%CF%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%D5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E5%F7%FB%F5%FA%E6%F7%F6%B0%A8%A3%A2%A2%BE%B0%E6%FB%E6%FE%F7%B0%A8%B0%B0%BE%B0%F1%E7%E1%E6%FD%FF%C1%F1%FD%E0%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%F5%F3%FF%F7%DF%FD%F6%F7%B0%A8%A3%BE%B0%F4%F7%F7%F6%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D4%D0%B0%A8%A3%A2%A2%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A0%BE%B0%F1%E7%E1%E6%FD%FF%DF%F7%E1%E1%F3%F5%F7%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%A3%A2%A2%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%F4%F7%F3%F1%A0%F1%A1%F7%BF%F3%F6%F6%A1%BF%A6%A5%AB%A2%BF%F0%F1%A7%F1%BF%F1%F7%F0%AB%F0%A5%F6%F7%A4%A2%A4%A3%B0%BE%B0%F5%FE%FD%F0%F3%FE%C6%FB%FF%F7%B0%A8%A2%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%AB%A3%A3%A1%AA%A6%A1%A1%A4%A6%A4%BF%E8%FA%E2%F5%E5%F8%FD%FB%F0%B0%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C1%E6%F3%E0%E6%D5%F3%FF%F7%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F7%FF%E2%F7%E8%F3%E0%B0%BE%B0%FF%E1%F5%C1%E7%F0%FF%FB%E6%B0%A8%B0%D7%FC%E4%FB%F3%E0%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%E2%FB%E1%E6%F3%B2%F7%E1%A8%B0%BE%B0%FF%E1%F5%DC%F7%E5%D5%F3%FF%F7%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F7%FF%E2%F7%E8%F3%E0%B2%FD%E6%E0%F3%B2%E2%F3%E0%E6%FB%F6%F3%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%DE%FD%FD%F9%FB%FC%F5%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B2%E3%E7%F7%B2%F7%E1%E6%F3%F0%F3%B2%F0%E7%E1%F1%F3%FC%F6%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F8%E7%F5%F3%E0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%E1%B0%A8%B0%D7%E0%E0%FD%E0%F7%E1%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%D3%F1%FB%F7%E0%E6%FD%E1%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%B0%A8%B0%C6%FB%F7%FF%E2%FD%B2%E2%FD%E0%B2%E2%E0%F7%F5%E7%FC%E6%F3%B0%BE%B0%FF%E1%F5%DE%FB%E4%F7%B0%A8%B0%C4%FB%F6%F3%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C2%F3%FC%E6%F3%FE%FE%F3%B2%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C1%F3%FE%FB%E0%B2%F6%F7%FE%B2%FF%FD%F6%FD%B2%E2%F3%FC%E6%F3%FE%FE%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%DC%E7%FF%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B0%BE%B0%FF%E1%F5%DC%FD%DB%FF%F3%F5%F7%B0%A8%B0%C2%E0%F7%F5%E7%FC%E6%F3%B2%E1%FB%FC%B2%FB%FFs%F5%F7%FC%F7%E1%B0%BE%B0%FF%E1%F5%D1%FD%FD%FE%B0%A8%B03%D0%FB%F7%FC%B3%B0%BE%B0%FF%E1%F5%DE%FD%E1%F7%C6%B0%A8%B0%DA%F3%B2%E2%F7%E0%F6%FB%F6%FD%B2%A1%A1%A2%B2%E2%E7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%DE%FD%E1%F7%DE%FB%E4%F7%B0%A8%B0%DA%F3%B2%E2%F7%E0%F6%FB%F6%FD%B2%E7%FC%F3%B2%E4%FB%F6%F3%B0%BE%B0%FF%E1%F5%DE%FD%E1%E6%DE%FB%E4%F7%E1%B0%A8%B03%DA%F3%B2%E2%F7%E0%F6%FB%F6%FD%B2%E6%FD%F6%F3%E1%B2%E1%E7%E1%B2%E4%FB%F6%F3%E1%B3%B0%BE%B0%FF%E1%F5%D3%FE%FE%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B03%D1%FD%FF%E2%FE%F7%E6%F3%F6%F3%E1%B2%FE%F3%E1%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B03%D1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%D7%EA%F1%F7%FE%F7%FC%E6%F7%B3%B2%EE%B23%D5%F7%FC%FB%F3%FE%B3%B2%EE%B23%DF%E7%EB%B2%F0%FB%F7%FC%B3%B2%EE%B23%C2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B03%DC%FD%B2%F7%E0%F3%B2%F7%E1%FD%B3%B2%EE%B23%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DE%FD%B2%E1%F7%FC%E6%FB%FF%FD%E1%B3%B2%EE%B23%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%FC%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E2%FD%E0%E3%E7%F7%B2%F7%E1%E6%F3%B2%E2s%F5%FB%FC%F3%B2%FC%FD%B2%F4%FD%E0%FF%F3%B2%E2%F3%E0%E6%F7%B2%B2%F6%F7%B2%E7%FC%B2%E2%F3%E3%E7%F7%E6%F7%B2%C1%D1%DD%C0%DF%BC%B0%BE%B0%FF%E1%F5%C3%E7%F7%E1%E6%FB%FD%FC%B0%A8%B0%C2%E0%F7%F5%E7%FC%E6%F3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B03%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E7%FC%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%D3%E7%E6%FA%FD%E0%B0%A8%B0%D3%E7%E6%FD%E0%7F%F3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%F1%FD%FF%FD%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2h%FE%E6%FB%FF%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F5%E7%F3%E0%F6%F3%F6%F3%B2%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%CB%F3%B2%FA%F3%B2%E0%F7%F3%FE%FB%E8%F3%F6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C2%E7%F7%F6%F7%B2%E0%F7%F3%FE%FB%E8%F3%E0%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F1%E7%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%C6%E0%EB%D3%F5%F3%FB%FC%B0%A8%B0%DC%F7%F1%F7%E1%FB%E6%F3%E1%B2%F3%FE%B2%FF%F7%FC%FD%E1%B2%B7%E1%B7%B2%F6%F7%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%E1%B2%F1%FD%E0%E0%F7%F1%E6%F3%E1%B2%E2%F3%E0%F3%B2%FD%F0%E6%F7%FC%F7%E0%B2%FE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%BC%B0%BE%B0%FF%E1%F5%C4%FB%F6%F7%FD%DB%FC%E6%E0%FD%B0%A8%B0%C4%7F%F6%F7%FD%B2%F6%F7%B2%FB%FC%E6%E0%FD%F6%E7%F1%F1%FBa%FC%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%D1%F7%E0%E0%F3%E0%B0%BE%B0%FF%E1%F5%DD%E2%E6%FB%FD%FC%B0%A8%B0%DD%E2%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C7%E1%F7%D4%E7%FE%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%F7%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B2%E3%E7%F7%B2%E1%F7%E0s%B2%FF%E7%EB%B2h%E6%FB%FE%B0%BE%B0%FF%E1%F5%DE%FD%F3%F6%FB%FC%F5%B0%A8%B0%D1%F3%E0%F5%F3%FC%F6%FD%BC%B2%D7%E1%E2%F7%E0%F7%BE%B2%E2%FD%E0%B2%F4%F3%E4%FD%E0%BC%BC%BC%B0%BE%B0%FF%E1%F5%C2%FD%FB%FC%E6%E1%B0%A8%B0%E2%E7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%D3%E7%F6%FB%FD%B0%A8%B0%D3%E7%F6%FB%FD%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%DB%FC%FB%F1%FB%F3%B2%F7%FE%B2%F8%E7%F7%F5%FD%BC%BC%BC%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%C2%E0%F7%F5%E7%FC%E6%F3%E1%B2%E0s%E2%FB%F6%F3%E1%B0%EF%EF</div><div class="quext-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-muu3id01-dc03l9y4t</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Referencias</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Referencias</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Referencias</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-muu3id01-dc03l9y4t</odePageId>
+      <odeBlockId>block-muu5y3z8-oosogfn71</odeBlockId>
+      <blockName>Referencias</blockName>
+      <iconName>geography</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-muu3id01-dc03l9y4t</odePageId>
+          <odeBlockId>block-muu5y3z8-oosogfn71</odeBlockId>
+          <odeIdeviceId>idevice-1791139055011-zy2on09fn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>-Kenhub. (s.f.). Anatomía y terminología básica. <a href="https://www.kenhub.com/es/library/anatomia-es/anatomia-y-terminologia-basica" title="">kenhub.com/es/library/anatomia-es/anatomia-y-terminologia-basica</a></p>
+<p>-TeachMeAnatomy. (s.f.). Términos anatómicos del movimiento. <a href="https://teachmeanatomy.info/es/aspectos-basicos/terminologia-anatomica/terminos-de-movimiento/" title="">teachmeanatomy.info/es/terminos-anatomicos-del-movimiento/</a></p>
+<p>-Clínica Universidad de Navarra. (s.f.). <a href="https://www.cun.es/diccionario-medico/terminos/eje" title="">Diccionario médico: eje sagital, eje transversal. cun.es/diccionario-medico/</a></p>
+<p>-Tortora, G. J., &amp; Derrickson, B. (2018). Principios de anatomía y fisiología (15.ª ed.). Editorial Médica Panamericana<br /></p>
+<p>-OpenAI. (2026). ChatGPT (versión con DALL·E) [Generador de imágenes con inteligencia artificial]. <a href="https://chat.openai.com">https://chat.openai.com</a></p>
+<p>-Fernández, J. (2026). 3 planos y ejes de movimiento. Mundo Entrenamiento. <a href="https://mundoentrenamiento.com/planos-y-ejes-de-movimiento/">https://mundoentrenamiento.com/planos-y-ejes-de-movimiento/</a></p>
+<p>-Fernández, J. (sf). 3 planos y ejes de movimiento . <a href="https://mundoentrenamiento.com/planos-y-ejes-de-movimiento/" title="">Mundo Entrenamiento. Mundo Entrenamiento – 3 Planos y ejes de movimiento</a></p>
+<p></p>
+<hr />
+<p>Integrantes del equipo <br />Gutierrez Ceniceros Miguel<br />Contreras Paz Andrés<br />Barbara Luan Xicotencatl Bonilla <br />López Trujillo Jesús Ángel</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1791139055011-zy2on09fn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>-Kenhub. (s.f.). Anatomía y terminología básica. <a href=\"https://www.kenhub.com/es/library/anatomia-es/anatomia-y-terminologia-basica\" title=\"\">kenhub.com/es/library/anatomia-es/anatomia-y-terminologia-basica</a></p>\n<p>-TeachMeAnatomy. (s.f.). Términos anatómicos del movimiento. <a href=\"https://teachmeanatomy.info/es/aspectos-basicos/terminologia-anatomica/terminos-de-movimiento/\" title=\"\">teachmeanatomy.info/es/terminos-anatomicos-del-movimiento/</a></p>\n<p>-Clínica Universidad de Navarra. (s.f.). <a href=\"https://www.cun.es/diccionario-medico/terminos/eje\" title=\"\">Diccionario médico: eje sagital, eje transversal. cun.es/diccionario-medico/</a></p>\n<p>-Tortora, G. J., &amp; Derrickson, B. (2018). Principios de anatomía y fisiología (15.ª ed.). Editorial Médica Panamericana<br /></p>\n<p>-OpenAI. (2026). ChatGPT (versión con DALL·E) [Generador de imágenes con inteligencia artificial]. <a href=\"https://chat.openai.com\">https://chat.openai.com</a></p>\n<p>-Fernández, J. (2026). 3 planos y ejes de movimiento. Mundo Entrenamiento. <a href=\"https://mundoentrenamiento.com/planos-y-ejes-de-movimiento/\">https://mundoentrenamiento.com/planos-y-ejes-de-movimiento/</a></p>\n<p>-Fernández, J. (sf). 3 planos y ejes de movimiento . <a href=\"https://mundoentrenamiento.com/planos-y-ejes-de-movimiento/\" title=\"\">Mundo Entrenamiento. Mundo Entrenamiento – 3 Planos y ejes de movimiento</a></p>\n<p></p>\n<hr />\n<p>Integrantes del equipo <br />Gutierrez Ceniceros Miguel<br />Contreras Paz Andrés<br />Barbara Luan Xicotencatl Bonilla <br />López Trujillo Jesús Ángel</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
